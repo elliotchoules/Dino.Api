@@ -16,5 +16,17 @@ namespace Dino.Api.Mappers
                 Period = dinosaur.Period
             };
         }
+
+        public static Dinosaur ToDinosaurFromDto(this DinosaurDto dinosaurDto)
+        {
+            return new Dinosaur
+            {
+                Id = dinosaurDto.Id,
+                Name = dinosaurDto.Name,
+                Classification = dinosaurDto.Classification,
+                Diet = dinosaurDto.Diet,
+                Period = dinosaurDto.Period
+            };
+        }
     }
 }

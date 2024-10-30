@@ -76,7 +76,9 @@ namespace Dino.Api.Controllers
                 return BadRequest();
             }
 
-            _dbContext.Entry(dinosaurDto).State = EntityState.Modified;
+            var dinosaur = dinosaurDto.ToDinosaurFromDto();
+
+            _dbContext.Entry(dinosaur).State = EntityState.Modified;
 
             try
             {
