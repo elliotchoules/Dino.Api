@@ -1,5 +1,6 @@
-﻿namespace Dino.Api.Models
+﻿namespace Dino.Api.Models.Data
 {
+    // This class doesn’t have any dependency on EF Core. It just defines the properties of the data that will be stored in the database.
     public class Dinosaur
     {
         public int Id { get; set; }

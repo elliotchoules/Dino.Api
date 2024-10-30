@@ -1,6 +1,10 @@
+using Dino.Api.Models.Data.DbContexts;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<DinosaurContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DinosaurContext")));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
