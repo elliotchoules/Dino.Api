@@ -1,4 +1,4 @@
-@Dino.Api_HostAddress = http://localhost:5282
+@Dino.Api_HostAddress = https://localhost:5282
 
 GET {{Dino.Api_HostAddress}}/weatherforecast/
 Accept: application/json
