@@ -1,6 +1,7 @@
-﻿using Dino.Api.Models.Data;
+﻿using Dino.Api.Mappers;
+using Dino.Api.Models.Data;
 using Dino.Api.Models.Data.DbContexts;
-using Microsoft.AspNetCore.Http;
+using Dino.Api.Models.Dto;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,19 +20,19 @@ namespace Dino.Api.Controllers
 
         // GET: api/Dinosaurs
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Dinosaur>>> GetDinosaurs()
+        public async Task<ActionResult<IEnumerable<DinosaurDto>>> GetDinosaurs()
         {
             if (_dbContext.Dinosaurs == null)
             {
                 return NotFound();
             }
 
-            return await _dbContext.Dinosaurs.ToListAsync();
+            return await _dbContext.Dinosaurs.Select(x => x.ToDinosaurDto()).ToListAsync();
         }
 
         // GET: api/Dinosaurs/2
         [HttpGet("{id}")]
-        public async Task<ActionResult<Dinosaur>> GetDinosaur(int id)
+        public async Task<ActionResult<DinosaurDto>> GetDinosaur(int id)
         {
             if (_dbContext.Dinosaurs == null)
             {
@@ -45,17 +46,17 @@ namespace Dino.Api.Controllers
                 return NotFound();
             }
 
-            return dinosaur;
+            return dinosaur.ToDinosaurDto();
         }
 
         // POST: api/Dinosaurs
         [HttpPost]
-        public async Task<ActionResult<Dinosaur>> PostDinosaur(Dinosaur dinosaur)
+        public async Task<ActionResult<DinosaurDto>> PostDinosaur(Dinosaur dinosaur)
         {
             _dbContext.Dinosaurs.Add(dinosaur);
             await _dbContext.SaveChangesAsync();
 
-            return CreatedAtAction(nameof(GetDinosaur), new { id = dinosaur.Id }, dinosaur);
+            return CreatedAtAction(nameof(GetDinosaur), new { id = dinosaur.Id }, dinosaur.ToDinosaurDto());
 
             // CreatedAtAction method returns an HTTP 201 status code if successful.
             // HTTP 201 is the standard response for a POST method that creates a new resource on the server.
@@ -65,17 +66,17 @@ namespace Dino.Api.Controllers
 
         // PUT: api/Dinosaur/2
         [HttpPut]
-        public async Task<IActionResult> PutDinosaur(int id, Dinosaur dinosaur)
+        public async Task<IActionResult> PutDinosaur(int id, DinosaurDto dinosaurDto)
         {
             // Update the dinosaur record with the given Id in the database.
             // HTTP specification says PUT requests must send the entire updated entity, not just the changes.
 
-            if (id != dinosaur.Id)
+            if (id != dinosaurDto.Id)
             {
                 return BadRequest();
             }
 
-            _dbContext.Entry(dinosaur).State = EntityState.Modified;
+            _dbContext.Entry(dinosaurDto).State = EntityState.Modified;
 
             try
             {
