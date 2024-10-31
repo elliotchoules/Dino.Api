@@ -1,0 +1,2166 @@
+[
+  {
+    "name": "Aardonyx",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "8"
+  },
+  {
+    "name": "Abelisaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Achelousaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Achillobator",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Acrocanthosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Aegyptosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Afrovenator",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Agilisaurus",
+    "classification": "Small ornithischian",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "1.5"
+  },
+  {
+    "name": "Alamosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "21"
+  },
+  {
+    "name": "Albertaceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Albertosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Alectrosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Alioramus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Allosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Alvarezsaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Amargasaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Ammosaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Ampelosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Amygdalodon",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Anchiceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Anchisaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Ankylosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Anserimimus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3.5"
+  },
+  {
+    "name": "Antarctosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "18"
+  },
+  {
+    "name": "Apatosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "21"
+  },
+  {
+    "name": "Aragosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "18"
+  },
+  {
+    "name": "Aralosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "8"
+  },
+  {
+    "name": "Archaeoceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "1.3"
+  },
+  {
+    "name": "Archaeopteryx",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "0.5"
+  },
+  {
+    "name": "Archaeornithomimus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3.5"
+  },
+  {
+    "name": "Argentinosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "late Cretaceous",
+    "lengthInMetres": "35"
+  },
+  {
+    "name": "Arrhinoceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Atlascopcosaurus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Aucasaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Austrosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Avaceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.3"
+  },
+  {
+    "name": "Avimimus",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.5"
+  },
+  {
+    "name": "Bactrosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Bagaceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Bambiraptor",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Barapasaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "14"
+  },
+  {
+    "name": "Barosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "24"
+  },
+  {
+    "name": "Baryonyx",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Becklespinax",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Beipiaosaurus",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Bellusaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Borogovia",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.5"
+  },
+  {
+    "name": "Brachiosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "30"
+  },
+  {
+    "name": "Brachylopho-saurus",
+    "classification": "Large ornithopod",
+    "diet": "",
+    "period": "",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Brachytrachelopan",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Buitreraptor",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.3"
+  },
+  {
+    "name": "Camarasaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "23"
+  },
+  {
+    "name": "Camptosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Carcharodontosaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Carnotaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7.6"
+  },
+  {
+    "name": "Caudipteryx",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Cedarpelta",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Centrosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Ceratosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Cetiosauriscus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Cetiosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "18"
+  },
+  {
+    "name": "Chaoyangsaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "1.1"
+  },
+  {
+    "name": "Chasmosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Chindesaurus",
+    "classification": "Early dinosaur",
+    "diet": "Carnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Chinshakiangosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "11"
+  },
+  {
+    "name": "Chirostenotes",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "1.7"
+  },
+  {
+    "name": "Chubutisaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "23"
+  },
+  {
+    "name": "Chungkingosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Citipati",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.1"
+  },
+  {
+    "name": "Coelophysis",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Coelurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "1.8"
+  },
+  {
+    "name": "Coloradisaurus",
+    "classification": "Prosauropod",
+    "diet": "Omnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Compsognathus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "0.65"
+  },
+  {
+    "name": "Conchoraptor",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.5"
+  },
+  {
+    "name": "Confuciusornis",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "0.25"
+  },
+  {
+    "name": "Corythosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Cryolophosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "8"
+  },
+  {
+    "name": "Dacentrurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Daspletosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Datousaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Deinocheirus",
+    "classification": "Large theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Deinonychus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Deltadromeus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "8.1"
+  },
+  {
+    "name": "Dicraeosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "20"
+  },
+  {
+    "name": "Dilophosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Diplodocus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "26"
+  },
+  {
+    "name": "Dracorex",
+    "classification": "Pachycephalosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Dromaeosaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.8",
+    "weight": "15"
+  },
+  {
+    "name": "Dromiceiomimus",
+    "classification": "Large theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3.5"
+  },
+  {
+    "name": "Dryosaurus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Dryptosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6.4"
+  },
+  {
+    "name": "Dubreuillosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Edmontonia",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Edmontosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "13"
+  },
+  {
+    "name": "Einiosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Elaphrosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "6.2"
+  },
+  {
+    "name": "Emausaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Eolambia",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Eoraptor",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Eotyrannus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Equijubus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Erketu",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Erlikosaurus",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3.4"
+  },
+  {
+    "name": "Euhelopus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Euoplocephalus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Europasaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "6.2"
+  },
+  {
+    "name": "Eustreptospondylus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Fukuiraptor",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "4.2"
+  },
+  {
+    "name": "Fukuisaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "4.7"
+  },
+  {
+    "name": "Gallimimus",
+    "classification": "Large theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Gargoyleosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Garudimimus",
+    "classification": "Large theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4.7"
+  },
+  {
+    "name": "Gasosaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Gasparinisaura",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0.8"
+  },
+  {
+    "name": "Gastonia",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "4.6"
+  },
+  {
+    "name": "Giganotosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "12.5"
+  },
+  {
+    "name": "Gilmoreosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Giraffatitan",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "23"
+  },
+  {
+    "name": "Gobisaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Gorgosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "8.6"
+  },
+  {
+    "name": "Goyocephale",
+    "classification": "Pachycephalosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Graciliceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Gryposaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Guaibasaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "late Triassic",
+    "lengthInMetres": "1.8"
+  },
+  {
+    "name": "Guanlong",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Hadrosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Hagryphus",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Haplocanthosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "21.5"
+  },
+  {
+    "name": "Harpymimus",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Herrerasaurus",
+    "classification": "Early dinosaur",
+    "diet": "Carnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Hesperosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Heterodontosaurus",
+    "classification": "Small ornithischian",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "1.2"
+  },
+  {
+    "name": "Heyuannia",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Homalocephale",
+    "classification": "Pachycephalosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.5"
+  },
+  {
+    "name": "Huayangosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "4.5"
+  },
+  {
+    "name": "Hylaeosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Hypacrosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Hypsilophodon",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2.3"
+  },
+  {
+    "name": "Iguanodon",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Indosuchus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Irritator",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "6.5"
+  },
+  {
+    "name": "Isisaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "18"
+  },
+  {
+    "name": "Janenschia",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "20"
+  },
+  {
+    "name": "Jaxartosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Jingshanosaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Jinzhousaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Jobaria",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "21"
+  },
+  {
+    "name": "Juravenator",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "0.8"
+  },
+  {
+    "name": "Kentrosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Khaan",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.8"
+  },
+  {
+    "name": "Kotasaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Kritosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "8"
+  },
+  {
+    "name": "Lambeosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Lapparentosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Leaellynasaura",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Leptoceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Lesothosaurus",
+    "classification": "Small ornithischian",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Liaoceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Ligabuesaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "24"
+  },
+  {
+    "name": "Liliensternus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Lophorhothon",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4.5"
+  },
+  {
+    "name": "Lophostropheus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "6.2"
+  },
+  {
+    "name": "Lufengosaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Lurdusaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Lycorhinus",
+    "classification": "Small ornithischian",
+    "diet": "Herbivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "1.2"
+  },
+  {
+    "name": "Magyarosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Maiasaura",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Majungasaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Malawisaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Mamenchisaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "22"
+  },
+  {
+    "name": "Mapusaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "13"
+  },
+  {
+    "name": "Marshosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Masiakasaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Massospondylus",
+    "classification": "Prosauropod",
+    "diet": "Omnivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Maxakalisaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "13"
+  },
+  {
+    "name": "Megalosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Melanorosaurus",
+    "classification": "Prosauropod",
+    "diet": "Omnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Metriacanthosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "8.2"
+  },
+  {
+    "name": "Microceratus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0.5"
+  },
+  {
+    "name": "Micropachycephalosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0.6"
+  },
+  {
+    "name": "Microraptor",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "0.8"
+  },
+  {
+    "name": "Minmi",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Monolophosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "5.7"
+  },
+  {
+    "name": "Mononykus",
+    "classification": "Small theropod",
+    "diet": "",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Mussaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Muttaburrasaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Nanshiungosaurus",
+    "classification": "Large theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4.4"
+  },
+  {
+    "name": "Nedoceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Nemegtosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "13"
+  },
+  {
+    "name": "Neovenator",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "7.4"
+  },
+  {
+    "name": "Neuquenosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Nigersaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Nipponosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Noasaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Nodosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Nomingia",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.6"
+  },
+  {
+    "name": "Nothronychus",
+    "classification": "Large theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "5.3"
+  },
+  {
+    "name": "Nqwebasaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Omeisaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "20"
+  },
+  {
+    "name": "Opisthocoelicaudia",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Ornitholestes",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "late Jurassic",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Ornithomimus",
+    "classification": "Large theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Orodromeus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Oryctodromeus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.1"
+  },
+  {
+    "name": "Othnielia",
+    "classification": "Small ornithischian",
+    "diet": "Herbivore",
+    "period": "late Jurassic",
+    "lengthInMetres": "1.4"
+  },
+  {
+    "name": "Ouranosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Oviraptor",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Pachycephalosaurus",
+    "classification": "Pachycephalosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "8"
+  },
+  {
+    "name": "Pachyrhinosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Panoplosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Pantydraco",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Paralititan",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "28"
+  },
+  {
+    "name": "Parasaurolophus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "11"
+  },
+  {
+    "name": "Parksosaurus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Patagosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "18"
+  },
+  {
+    "name": "Pelicanimimus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Pelorosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "25"
+  },
+  {
+    "name": "Pentaceratops",
+    "classification": "Ceratopsian",
+    "diet": "",
+    "period": "",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Piatnitzkysaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "4.2"
+  },
+  {
+    "name": "Pinacosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6.8"
+  },
+  {
+    "name": "Plateosaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Podokesaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "0.9"
+  },
+  {
+    "name": "Poekilopleuron",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Polacanthus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "5"
+  },
+  {
+    "name": "Prenocephale",
+    "classification": "Pachycephalosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.4"
+  },
+  {
+    "name": "Probactrosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Proceratosaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "4.1"
+  },
+  {
+    "name": "Procompsognathus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Prosaurolophus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7.6"
+  },
+  {
+    "name": "Protarchaeopteryx",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Protoceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.8"
+  },
+  {
+    "name": "Protohadros",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Psittacosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Quaesitosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "23"
+  },
+  {
+    "name": "Rebbachisaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "20"
+  },
+  {
+    "name": "Rhabdodon",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Rhoetosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Rinchenia",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.5"
+  },
+  {
+    "name": "Riojasaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "5.15"
+  },
+  {
+    "name": "Rugops",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Saichania",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6.6"
+  },
+  {
+    "name": "Saltasaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Sarcosaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Saurolophus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Sauropelta",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "6.5"
+  },
+  {
+    "name": "Saurophaganax",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Saurornithoides",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Scelidosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Scutellosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "1.2"
+  },
+  {
+    "name": "Secernosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Segisaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "1.5"
+  },
+  {
+    "name": "Segnosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Shamosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Shanag",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "0.45"
+  },
+  {
+    "name": "Shantungosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "15"
+  },
+  {
+    "name": "Shunosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Shuvuuia",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0.6"
+  },
+  {
+    "name": "Silvisaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Sinocalliopteryx",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2.37"
+  },
+  {
+    "name": "Sinornithosaurus",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Sinosauropteryx",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Sinovenator",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Sinraptor",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "7.6"
+  },
+  {
+    "name": "Sonidosaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Spinosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "18"
+  },
+  {
+    "name": "Staurikosaurus",
+    "classification": "Early dinosaur",
+    "diet": "Carnivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Stegoceras",
+    "classification": "Pachycephalosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.4"
+  },
+  {
+    "name": "Stegosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Stenopelix",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "1.5"
+  },
+  {
+    "name": "Struthiomimus",
+    "classification": "Small theropod",
+    "diet": "Omnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "4"
+  },
+  {
+    "name": "Struthiosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.5"
+  },
+  {
+    "name": "Styracosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "5.5"
+  },
+  {
+    "name": "Suchomimus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "11"
+  },
+  {
+    "name": "Supersaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "35"
+  },
+  {
+    "name": "Talarurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Tanius",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Tarbosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Tarchia",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "8.5"
+  },
+  {
+    "name": "Telmatosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "8.5"
+  },
+  {
+    "name": "Tenontosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Thecodontosaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Late Triassic",
+    "lengthInMetres": "2.5"
+  },
+  {
+    "name": "Therizinosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Thescelosaurus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3.5"
+  },
+  {
+    "name": "Torosaurus",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "7.5"
+  },
+  {
+    "name": "Torvosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Triceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Troodon",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2"
+  },
+  {
+    "name": "Tsagantegia",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Tsintaosaurus",
+    "classification": "Large ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Tuojiangosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Tylocephale",
+    "classification": "Pachycephalosaur",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.4"
+  },
+  {
+    "name": "Tyrannosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "12"
+  },
+  {
+    "name": "Udanoceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Unenlagia",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "2.4"
+  },
+  {
+    "name": "Urbacodon",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1"
+  },
+  {
+    "name": "Utahraptor",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "6"
+  },
+  {
+    "name": "Valdosaurus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Velociraptor",
+    "classification": "Small theropod",
+    "diet": "Carnivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "1.8"
+  },
+  {
+    "name": "Vulcanodon",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "6.5"
+  },
+  {
+    "name": "Yandusaurus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Yangchuanosaurus",
+    "classification": "Large theropod",
+    "diet": "Carnivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "10"
+  },
+  {
+    "name": "Yimenosaurus",
+    "classification": "Prosauropod",
+    "diet": "Herbivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "9"
+  },
+  {
+    "name": "Yingshanosaurus",
+    "classification": "Armoured dinosaur",
+    "diet": "Herbivore",
+    "period": "Late Jurassic",
+    "lengthInMetres": "0"
+  },
+  {
+    "name": "Yinlong",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "1.2"
+  },
+  {
+    "name": "Yuanmousaurus",
+    "classification": "Sauropod",
+    "diet": "Herbivore",
+    "period": "Mid Jurassic",
+    "lengthInMetres": "17"
+  },
+  {
+    "name": "Yunnanosaurus",
+    "classification": "Prosauropod",
+    "diet": "Omnivore",
+    "period": "Early Jurassic",
+    "lengthInMetres": "7"
+  },
+  {
+    "name": "Zalmoxes",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "3"
+  },
+  {
+    "name": "Zephyrosaurus",
+    "classification": "Small ornithopod",
+    "diet": "Herbivore",
+    "period": "Early Cretaceous",
+    "lengthInMetres": "1.8"
+  },
+  {
+    "name": "Zuniceratops",
+    "classification": "Ceratopsian",
+    "diet": "Herbivore",
+    "period": "Late Cretaceous",
+    "lengthInMetres": "0"
+  }
+]

@@ -3,6 +3,7 @@ using Dino.Api.Models.Data.DbContexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dino.Api.Migrations
 {
     [DbContext(typeof(DinosaurContext))]
-    partial class DinosaurContextModelSnapshot : ModelSnapshot
+    [Migration("20241031225000_SeedDataForDinosaurContext")]
+    partial class SeedDataForDinosaurContext
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
