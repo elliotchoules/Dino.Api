@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dino.Api.Migrations.Dinosaur
 {
     [DbContext(typeof(DinosaurDbContext))]
-    [Migration("20241101204450_CreateDatabase")]
+    [Migration("20241101212131_CreateDatabase")]
     partial class CreateDatabase
     {
         /// <inheritdoc />

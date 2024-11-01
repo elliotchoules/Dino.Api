@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dino.Api.Migrations.User
 {
     [DbContext(typeof(UserDbContext))]
-    [Migration("20241101204516_CreateDatabase")]
+    [Migration("20241101212142_CreateDatabase")]
     partial class CreateDatabase
     {
         /// <inheritdoc />
