@@ -2,6 +2,7 @@ using Dino.Api.Models.Data;
 using Dino.Api.Models.Data.DbContexts;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,10 +17,10 @@ var connectionString = builder.Configuration.GetConnectionString("Database");
 // Update-Database -Context DinosaurDbContext to implement the migration.
 
 builder.Services.AddDbContext<DinosaurDbContext>(
-    options => options.UseSqlServer(connectionString));
+    options => options.UseSqlServer(connectionString, o => o.MigrationsHistoryTable(HistoryRepository.DefaultTableName, nameof(Dinosaur))));
 
 builder.Services.AddDbContext<UserDbContext>(
-    options => options.UseSqlServer(connectionString));
+    options => options.UseSqlServer(connectionString, o => o.MigrationsHistoryTable(HistoryRepository.DefaultTableName, nameof(User))));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
