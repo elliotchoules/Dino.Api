@@ -4,9 +4,9 @@ using System.Text.Json;
 namespace Dino.Api.Models.Data.DbContexts
 {
     // The database context is a class that coordinates Entity Framework functionality for the data model.
-    public class DinosaurContext : DbContext
+    public class DinosaurDbContext : DbContext
     {
-        public DinosaurContext(DbContextOptions<DinosaurContext> options) 
+        public DinosaurDbContext(DbContextOptions<DinosaurDbContext> options) 
             : base(options)
         {
         }
@@ -17,6 +17,9 @@ namespace Dino.Api.Models.Data.DbContexts
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+
+            // All of the tables (DbSets) in the DinosaurDbContext class will have the "dinosaur" schema. This is helpful as both contexts share the same database.
+            modelBuilder.HasDefaultSchema(nameof(Dinosaur));
 
             modelBuilder.Entity<Dinosaur>().HasData(SeedData());
         }

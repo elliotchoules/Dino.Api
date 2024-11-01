@@ -11,9 +11,9 @@ namespace Dino.Api.Controllers
     [ApiController]
     public class DinosaursController : ControllerBase
     {
-        private readonly DinosaurContext _dbContext;
+        private readonly DinosaurDbContext _dbContext;
 
-        public DinosaursController(DinosaurContext dbContext)
+        public DinosaursController(DinosaurDbContext dbContext)
         {
             _dbContext = dbContext;
         }

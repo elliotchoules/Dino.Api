@@ -7,15 +7,16 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace Dino.Api.Migrations
+namespace Dino.Api.Migrations.Dinosaur
 {
-    [DbContext(typeof(DinosaurContext))]
-    partial class DinosaurContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(DinosaurDbContext))]
+    partial class DinosaurDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
+                .HasDefaultSchema("Dinosaur")
                 .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
@@ -48,7 +49,7 @@ namespace Dino.Api.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Dinosaurs");
+                    b.ToTable("Dinosaurs", "Dinosaur");
 
                     b.HasData(
                         new
